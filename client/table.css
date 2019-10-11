@@ -1,0 +1,61 @@
+.kuva {
+  height: 200px;
+}
+
+.table {
+    background-color: white;
+    box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    vertical-align:bottom;
+}
+
+form {
+    font-family: arial, sans-serif;
+    color: #3a3e47;
+    font-size: 17px;
+    text-align: center;
+    width: 40%;
+    margin:auto;
+
+
+  }
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    color: #3a3e47;
+    height: 100%;
+    font-size: 17px;
+    margin: 30px;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .menu__link {
+    color: black;
+    display: inline-block;
+    height: 100%;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    padding: 0 3px;
+}
+
+  tr:nth-child(even) {
+    background-color: pink;
+  }
+  
+  table#table1 {
+    width:70%; 
+    margin-left:15%; 
+    margin-right:15%;
+  }
+
+ 
+          
